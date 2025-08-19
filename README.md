@@ -29,9 +29,10 @@ Step 7: Applied visual filters and slicers for dynamic exploration by account ty
 Step 8: Dashboard was published to Power BI Service for access and sharing.
 
 Snapshot of Dashboard
-src="https://github.com/user-attachments/assets/e32b2609-c5d8-4ba6-976b-519bed2665bb" />
 
-src="https://github.com/user-attachments/assets/aaeeabc1-bc0c-40a0-98cf-eda41517edfa" />
+page 1 src="https://github.com/user-attachments/assets/e32b2609-c5d8-4ba6-976b-519bed2665bb" />
+
+page 2 src="https://github.com/user-attachments/assets/aaeeabc1-bc0c-40a0-98cf-eda41517edfa" />
 
 A two page report, built and published with Power BI Desktop and Service, yields these key findings:
 
